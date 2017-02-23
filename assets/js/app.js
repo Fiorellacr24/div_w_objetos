@@ -9,7 +9,7 @@ var arr = [ { nombre : "Arabela", apellido : "Rojas", rol : "T.A", cumpleanios :
 	          "<ul>" +
 	          "<li>Nombre: " + arr[i].nombre + "</li>" +
 	          "<li>Apellido: " + arr[i].apellido  + "</li>" +
-	          "<li>DNI: " + arr[i].rol  + "</li>" +
+	          "<li>Rol: " + arr[i].rol  + "</li>" +
 	          "<li>Dirección: " + arr[i].cumpleanios  + "</li>" +
 	        "</ul>";
 
